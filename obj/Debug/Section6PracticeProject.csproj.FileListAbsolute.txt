@@ -1,0 +1,8 @@
+D:\26July\Section6PracticeProject\Section6PracticeProject\bin\Debug\Section6PracticeProject.exe.config
+D:\26July\Section6PracticeProject\Section6PracticeProject\bin\Debug\Section6PracticeProject.exe
+D:\26July\Section6PracticeProject\Section6PracticeProject\bin\Debug\Section6PracticeProject.pdb
+D:\26July\Section6PracticeProject\Section6PracticeProject\obj\Debug\Section6PracticeProject.csproj.AssemblyReference.cache
+D:\26July\Section6PracticeProject\Section6PracticeProject\obj\Debug\Section6PracticeProject.csproj.SuggestedBindingRedirects.cache
+D:\26July\Section6PracticeProject\Section6PracticeProject\obj\Debug\Section6PracticeProject.csproj.CoreCompileInputs.cache
+D:\26July\Section6PracticeProject\Section6PracticeProject\obj\Debug\Section6PracticeProject.exe
+D:\26July\Section6PracticeProject\Section6PracticeProject\obj\Debug\Section6PracticeProject.pdb
